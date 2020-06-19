@@ -9,7 +9,7 @@ Pull requests welcome.
 
 ## Usage
 
-Copy the contents of `tokyo-night.yaml` into `~/alacritty/alacritty.yml`, then
+Copy the contents of [tokyo-night.yaml](https://github.com/zatchheems/tokyo-night-alacritty-theme/blob/master/tokyo-night.yaml) into `~/alacritty/alacritty.yml`, then
 set:
 
 ```colors: *tokyo-night```
