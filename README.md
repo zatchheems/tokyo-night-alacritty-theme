@@ -2,7 +2,11 @@
 
 ### Alacritty theme based on VS Code and Vim themes
 
+![image](https://user-images.githubusercontent.com/8506829/95110794-3081ab00-0704-11eb-861a-6162ccb9a6e0.png)
+*Vim + tmux + Starship (fish) on macOS*
+
 ![alacritty-sample](https://user-images.githubusercontent.com/8506829/85086842-70e30a80-b1a1-11ea-9f69-0b12eb7b5f13.png)
+*Simple output on Kubuntu*
 
 Alacritty theme adapted from the excellent Tokyo Night VS Code theme.
 
