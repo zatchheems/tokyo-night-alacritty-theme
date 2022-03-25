@@ -20,6 +20,8 @@ into `~/alacritty/alacritty.yml`, then set:
 # normal dark theme
 colors: *tokyo-night
 
+# OR:
+
 # "storm" uses a lighter BG color
 colors: *tokyo-night-storm
 ```
