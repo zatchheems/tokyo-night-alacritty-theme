@@ -13,15 +13,18 @@ Pull requests welcome.
 
 ## Usage
 
-Copy the contents of [tokyo-night.yaml](https://github.com/zatchheems/tokyo-night-alacritty-theme/blob/master/tokyo-night.yaml)
-into `~/alacritty/alacritty.yml`, then set:
+### Imports
 
-```yaml
-# normal dark theme
-colors: *tokyo-night
+Clone the repository or download the `.toml` files to a directory of your choice.
+Add an import of the desired color scheme to your `alacritty.toml`:
 
-# OR:
-
-# "storm" uses a lighter BG color
-colors: *tokyo-night-storm
 ```
+import = [ "<PATH-TO-DIR>/tokyo-night.toml" ] # or tokyo-night-storm.toml
+```
+
+Make sure to use the absolute path leading to the `.toml` file.
+
+### Manually
+
+Copy the contents of [tokyo-night.toml](https://github.com/zatchheems/tokyo-night-alacritty-theme/blob/master/tokyo-night.toml) or [tokyo-night-storm.toml](https://github.com/zatchheems/tokyo-night-alacritty-theme/blob/master/tokyo-night-storm.toml)
+into the root level of your existing `alacritty.toml`.
